@@ -10,4 +10,10 @@ public class OneClass {
 		System.out.println("Test pass");
 		
 	}
+	@Test
+	public void firstTwo()
+	{
+		System.out.println("Test pass");
+		
+	}
 }
