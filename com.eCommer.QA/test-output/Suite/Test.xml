@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="user-PC" name="com.eCommer.pages.OneClass" tests="1" failures="0" timestamp="9 Mar 2018 18:54:57 GMT" time="0.037" errors="0">
+  <testcase name="firstOne" time="0.018" classname="com.eCommer.pages.OneClass"/>
+</testsuite>
